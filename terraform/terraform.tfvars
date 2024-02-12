@@ -1,3 +1,3 @@
-rgname   = "github-action"
+rgname   = "rg-github-action"
 location = "East US"
-sname    = "devopsguru190"
+sname    = "Azure_for_Students"
