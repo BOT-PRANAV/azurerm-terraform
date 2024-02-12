@@ -1,3 +1,3 @@
-rgname   = "rg-github-action"
+rgname   = "rg-github-actions"
 location = "East US"
 sname    = "azureforstudents"
